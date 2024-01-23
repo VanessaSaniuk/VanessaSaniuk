@@ -13,7 +13,7 @@ Uma garota iniciante na área de tecnologia com formação em andamento - Análi
 
 
 ## 🛠 Habilidades
-Python - iniciante
+JAVA - iniciante
 
 
 ## Aprendizados
